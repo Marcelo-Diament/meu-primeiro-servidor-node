@@ -4,6 +4,7 @@
   "description": "Prática de Node e Express - Criando meu primeiro servidor com NodeJS",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
