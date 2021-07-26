@@ -1,0 +1,20 @@
+{
+  "name": "meu-primeiro-servidor-node",
+  "version": "1.0.0",
+  "description": "Prática de Node e Express - Criando meu primeiro servidor com NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcelo-Diament/meu-primeiro-servidor-node.git"
+  },
+  "keywords": ["node-server"],
+  "author": "Marcelo Diament",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcelo-Diament/meu-primeiro-servidor-node/issues"
+  },
+  "homepage": "https://github.com/Marcelo-Diament/meu-primeiro-servidor-node#readme"
+}
