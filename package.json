@@ -11,11 +11,16 @@
     "type": "git",
     "url": "git+https://github.com/Marcelo-Diament/meu-primeiro-servidor-node.git"
   },
-  "keywords": ["node-server"],
+  "keywords": [
+    "node-server"
+  ],
   "author": "Marcelo Diament",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Marcelo-Diament/meu-primeiro-servidor-node/issues"
   },
-  "homepage": "https://github.com/Marcelo-Diament/meu-primeiro-servidor-node#readme"
+  "homepage": "https://github.com/Marcelo-Diament/meu-primeiro-servidor-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
